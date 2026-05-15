@@ -1,0 +1,10 @@
+.movies-list {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+}
+
+.poster-image {
+  width: 180px;
+  border-radius: 8px;
+}

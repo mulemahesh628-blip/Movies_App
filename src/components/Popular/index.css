@@ -1,0 +1,12 @@
+/* Write your code here */
+.popular-container {
+  background-color: #181818;
+  min-height: 100vh;
+}
+
+.popular-movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 30px;
+  list-style-type: none;
+}

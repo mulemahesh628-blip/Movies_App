@@ -1,0 +1,9 @@
+.similar-movie-item {
+  list-style-type: none;
+}
+
+.similar-movie-image {
+  width: 220px;
+  height: 140px;
+  border-radius: 8px;
+}

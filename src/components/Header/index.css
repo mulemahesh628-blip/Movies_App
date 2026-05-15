@@ -1,0 +1,82 @@
+/* Write your code here */
+.header-container {
+  background-color: #131313;
+  padding: 20px;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left {
+  display: flex;
+  align-items: center;
+}
+
+.website-logo {
+  width: 120px;
+  height: 40px;
+  object-fit: cover;
+}
+
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  margin-left: 20px;
+  padding-left: 0;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.search-button,
+.search-icon-button {
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+  cursor: pointer;
+  height: 32px;
+  width: 40px;
+}
+
+.search-input-container {
+  display: flex;
+  margin-right: 15px;
+}
+
+.search-input {
+  height: 32px;
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  outline: none;
+  padding-left: 10px;
+}
+
+.profile-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.logout-btn {
+  margin-left: 15px;
+  height: 35px;
+  border: none;
+  background-color: #e50914;
+  color: white;
+  padding: 0 15px;
+  border-radius: 4px;
+  cursor: pointer;
+}

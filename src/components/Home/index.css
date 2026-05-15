@@ -1,0 +1,51 @@
+/* Write your code here */
+.home-container {
+  background-color: #181818;
+  min-height: 100vh;
+  color: white;
+}
+
+.home-banner {
+  min-height: 70vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.banner-content {
+  width: 100%;
+  max-width: 900px;
+  padding: 80px 40px;
+}
+
+.play-button {
+  height: 40px;
+  width: 100px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.movies-section {
+  padding: 20px 32px;
+  background-color: #181818;
+}
+
+.movies-heading {
+  color: #ffffff;
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+
+.banner-content h1 {
+  color: #ffffff;
+  font-size: 52px;
+  margin-bottom: 20px;
+}
+
+.banner-content p {
+  color: #ffffff;
+  font-size: 24px;
+  width: 50%;
+  line-height: 1.5;
+}

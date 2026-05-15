@@ -1,0 +1,10 @@
+/* Write your code here */
+.movie-item {
+  list-style-type: none;
+  margin: 10px;
+}
+
+.movie-image {
+  width: 180px;
+  border-radius: 8px;
+}
