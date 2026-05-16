@@ -3,7 +3,7 @@ import {useState} from 'react'
 import Cookies from 'js-cookie'
 
 import Header from '../Header'
-import MovieItem from '../Movieitem'
+import MovieItem from '../MovieItem'
 import endpoints from '../endpoints'
 
 import './index.css'

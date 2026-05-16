@@ -2,7 +2,7 @@ import {Link} from 'react-router-dom'
 
 import './index.css'
 
-const Movieitem = props => {
+const MovieItem = props => {
   const {movieDetails} = props
 
   const {
@@ -24,4 +24,4 @@ const Movieitem = props => {
   )
 }
 
-export default Movieitem
+export default MovieItem
