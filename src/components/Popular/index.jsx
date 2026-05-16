@@ -2,7 +2,7 @@ import {useEffect, useState} from 'react'
 import Cookies from 'js-cookie'
 
 import Header from '../Header'
-import MovieItem from '../MovieItem'
+import Movieitem from '../Movieitem'
 
 import './index.css'
 
